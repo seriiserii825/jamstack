@@ -1,0 +1,40 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "meghna-hugo"
+
+[[menu.main]]
+name = "About"
+URL = "about"
+weight = 1
+
+[[menu.main]]
+name = "Service"
+URL = "services"
+weight = 2
+
+[[menu.main]]
+name = "Portfolio"
+URL = "portfolio"
+weight = 3
+
+[[menu.main]]
+name = "Team"
+URL = "team"
+weight = 4
+
+[[menu.main]]
+name = "Pricing"
+URL = "pricing"
+weight = 5
+
+[[menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 6
+
+[[menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 7
+

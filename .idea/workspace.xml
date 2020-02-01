@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c75690e9-3a55-490f-8035-f0ff9ec28a6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/.forestry/front_matter/templates/author.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/.forestry/front_matter/templates/post.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/.forestry/settings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/config.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/english/author/john-doe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/english/author/mark-dinn.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/english/blog/installation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/english/blog/simple-blog-post-1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/english/blog/simple-blog-post-2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/english/blog/simple-blog-post-3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/english/blog/simple-blog-post-4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/english/blog/simple-blog-post-5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/english/blog/simple-blog-post-6.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/english/blog/simple-blog-post-7.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/english/blog/simple-blog-post-8.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/french/author/john-doe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/french/author/mark-dinn.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/french/blog/installation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/french/blog/simple-blog-post-1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/french/blog/simple-blog-post-2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/french/blog/simple-blog-post-3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/french/blog/simple-blog-post-4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/french/blog/simple-blog-post-5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/french/blog/simple-blog-post-6.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/french/blog/simple-blog-post-7.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/content/french/blog/simple-blog-post-8.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/en/about.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/en/banner.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/en/contact.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/en/cta.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/en/feature.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/en/funfacts.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/en/portfolio.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/en/pricing.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/en/service.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/en/skill.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/en/team.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/en/testimonial.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/fr/about.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/fr/banner.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/fr/contact.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/fr/cta.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/fr/feature.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/fr/funfacts.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/fr/portfolio.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/fr/pricing.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/fr/service.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/fr/skill.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/fr/team.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/data/fr/testimonial.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/i18n/en.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/i18n/fr.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/about/about-business-man.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/about/about-business-man.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/about/company-growth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/about/company-growth.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/backgrounds/bg-testimonial.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/backgrounds/bg-testimonial.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/backgrounds/bg-white-wall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/backgrounds/bg-white-wall.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/backgrounds/hero-area.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/backgrounds/hero-area.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/blog/blog-post-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/blog/blog-post-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/blog/blog-post-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/blog/blog-post-2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/blog/blog-post-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/blog/blog-post-3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/blog/meghna.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/blog/meghna.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/client/client-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/client/client-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/client/client-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/client/client-2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/marker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/portfolio/portfolio-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/portfolio/portfolio-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/portfolio/portfolio-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/portfolio/portfolio-2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/portfolio/portfolio-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/portfolio/portfolio-3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/portfolio/portfolio-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/portfolio/portfolio-4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/portfolio/portfolio-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/portfolio/portfolio-5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/portfolio/portfolio-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/portfolio/portfolio-6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/portfolio/portfolio-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/portfolio/portfolio-7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/portfolio/portfolio-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/portfolio/portfolio-8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/team/team-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/team/team-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/team/team-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/team/team-2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/team/team-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/team/team-3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/team/team-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/meghna-hugo/static/images/team/team-4.webp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/meghna-hugo" />
+  </component>
+  <component name="ProjectId" id="1XCg8f9vW1BZ9U69CiNpY8gqay7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/meghna-hugo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/meghna-hugo" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c75690e9-3a55-490f-8035-f0ff9ec28a6f" name="Default Changelist" comment="" />
+      <created>1580555332431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580555332431</updated>
+      <workItem from="1580555333846" duration="23000" />
+      <workItem from="1580555371455" duration="4052000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="214" width="672" height="678" key="search.everywhere.popup" timestamp="1580558774163">
+      <screen x="0" y="25" width="1600" height="875" />
+    </state>
+    <state x="463" y="214" width="672" height="678" key="search.everywhere.popup/0.25.1600.875@0.25.1600.875" timestamp="1580558774163" />
+  </component>
+</project>
